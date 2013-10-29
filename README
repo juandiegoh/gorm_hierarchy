@@ -1,1 +1,3 @@
 Little project to show how to implement GORM with Hierarchies
+
+Run MainTest.groovy to see it in action
